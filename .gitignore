@@ -2,3 +2,5 @@ user
 obj
 *.suo
 *.user
+*.pdb
+*.vshost.exe
